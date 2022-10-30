@@ -1,1 +1,3 @@
 # retail_sales_predictions
+
+We use retail sales data from January 1st 2010 to December 7, 2013 to build a simple exponential, double exponential, two seasonal autoregressive moving averages (SARIMA) and long short-term memory models (LSTM) to predict sales four weeks in advance. LSTM provides the most accurate forecast while the simple exponential model was a close second. SARIMA 2, SARIMA 1, and double exponential are third, fourth, and fifth ranked models, respectively.
